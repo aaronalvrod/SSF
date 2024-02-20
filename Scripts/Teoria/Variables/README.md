@@ -42,6 +42,4 @@ $set nombre = valor --> # Shell C
 $nombre=valor --> #Shell Bourne o Korn
 ```
 
-
-
-
+Como caso especial, si se omite el valor, se asigna el valor `null` a la variable.
