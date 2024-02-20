@@ -15,6 +15,7 @@ Por convenio, las variables de entorno se denotan en mayúsculas. El usuario pue
 - **PWD**: *Contiene el nombre de camino absoluto del directorio actual. Lo actualiza el comando `cd`.*
 
 Cuando un usuario inicia el sistema, UNIX utiliza automáticamente muchas de estas variables.
+
 ---
 
 ### Asignar variable de entorno
