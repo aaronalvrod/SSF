@@ -20,7 +20,7 @@ Por convenio, las variables de entorno se denotan en mayúsculas. El usuario pue
 Las variables de entorno se asignan de la siguiente manera:
 
 ``` bash
-$ setenv VARIABLE valor --> #En los Shell C
-$ VARIABLE = valor; export VARIABLE --> #En los Shell de Bourne o Korn
+$setenv VARIABLE valor --> #En los Shell C
+$VARIABLE = valor; export VARIABLE --> #En los Shell de Bourne o Korn
 ```
 
