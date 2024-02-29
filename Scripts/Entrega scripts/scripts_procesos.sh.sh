@@ -6,8 +6,8 @@
 # Salida: Servicio existente, activo, habilitado, enmascarado, acciones del servicio...
 # Autores: Germán y Aarón
 ###########################################
-
-if [ -z "$1" ] 
+service=$1
+if [ "$1" -eq "" ] 
 then
 read -p "Por favor, ingrese el nombre del servicio: " servicio
 fi
