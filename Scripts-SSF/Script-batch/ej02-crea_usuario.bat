@@ -1,8 +1,8 @@
 @echo off
 
 REM ********************************
-REM * Nombre: ej02-crea_usuario.sh
-REM * Autor: Aarón Álvarez Rodríguezs
+REM * Nombre: ej02-crea_usuario.bat
+REM * Autor: Aarón Álvarez Rodríguez
 REM ********************************
 
 set nombre=Kai

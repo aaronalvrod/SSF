@@ -1,7 +1,7 @@
 @echo off
 
 REM ************************************
-REM * NOMBRE: ej03-gradosC2F.sh 
+REM * NOMBRE: ej03-gradosC2F.bat
 REM * AUTOR: Aarón Álvarez Rodríguez
 REM *****************************************
 

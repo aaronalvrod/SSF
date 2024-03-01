@@ -2,7 +2,7 @@
 @echo off
 
 REM ************************************
-REM * NOMBRE: ej11-calculadora.sh
+REM * NOMBRE: ej20-calculadora.bat
 REM * AUTOR: Aarón Álvarez Rodríguez
 REM *****************************************
 
