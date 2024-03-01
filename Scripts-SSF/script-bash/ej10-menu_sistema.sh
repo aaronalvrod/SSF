@@ -1,8 +1,6 @@
 ###########################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej10-menu_sistema.sh
-# Entradas: 
-# Salidas: 
 ############################################
 
 echo "***********************"

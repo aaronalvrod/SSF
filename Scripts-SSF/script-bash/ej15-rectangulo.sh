@@ -1,8 +1,6 @@
 ###########################################
 # Autor: Aarón Álvarez Rodríguez
-# Nombre: ej15-rectangulo.sh 
-# Entradas: 
-# Salidas: 
+# Nombre: ej15-rectangulo.sh  
 ############################################
 
 if [ "$#" -eq 0 ]; then

@@ -1,8 +1,6 @@
 ###########################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej12-multiplo.sh
-# Entradas: 
-# Salidas: 
 ############################################
 
 if [ "$#" -eq 0 ]; then

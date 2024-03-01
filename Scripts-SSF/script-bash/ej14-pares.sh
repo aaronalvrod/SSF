@@ -1,8 +1,6 @@
 ###########################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej14-pares.sh
-# Entradas: 
-# Salidas: 
 ############################################
 
 num1=$1

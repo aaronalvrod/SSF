@@ -3,9 +3,6 @@
 ####################################################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej05-calcula_segundos.sh
-# Entradas: Dia, hora, minutos, segundos 
-# Salidas: Total de segundos entre los valores entrantes
-# Historial: 2024-02-19
 ####################################################################
 
 dia=$1

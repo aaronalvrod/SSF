@@ -1,9 +1,6 @@
 ############################################
-#
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej11-calculadora.sh
-# Entradas: 
-# Salidas: 
 ############################################
 
 a=$1

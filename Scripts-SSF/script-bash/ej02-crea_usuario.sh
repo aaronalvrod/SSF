@@ -3,9 +3,6 @@
 ####################################################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej02-crea_usuario.sh
-# Entradas: Nombre, apellidos, usuario
-# Salidas: Imprimir nombre, apellidos, usuario e id aleatoria
-# Historial: 2024-02-19
 ####################################################################
 
 nombre=$1

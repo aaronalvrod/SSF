@@ -3,9 +3,6 @@
 ####################################################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej06-calcula_tiempos.sh
-# Entradas: Números de segundos
-# Salidas: Tiempo de días, horas, minutos y segundos
-# Historial: 2024-02-19
 ####################################################################
 
 if [ $# -eq 0 ]

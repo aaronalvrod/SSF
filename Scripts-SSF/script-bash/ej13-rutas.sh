@@ -1,8 +1,6 @@
 ###########################################
 # Autor: Aarón Álvarez Rodríguez
-# Nombre: ej13-rutas.sh
-# Entradas: 
-# Salidas: 
+# Nombre: ej13-rutas.sh 
 ############################################
 
 elementos=$(find . -type d -name '????*')

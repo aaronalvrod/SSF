@@ -3,9 +3,6 @@
 ####################################################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej04-dia_semana.sh
-# Entradas: Dia, mes, año
-# Salidas: Dia de la semana de la fecha seleccionada
-# Historial: 2024-02-19
 ####################################################################
 
 dia=$1

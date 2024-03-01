@@ -3,9 +3,6 @@
 ####################################################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej03-gradosC2F.sh
-# Entradas: Grados Celsius
-# Salidas: Grados Fahrenheit
-# Historial: 2024-02-19
 ####################################################################
 
 g_celsius=$1

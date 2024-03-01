@@ -1,8 +1,6 @@
 ###########################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej07-calcula_tiempos.sh
-# Entradas: 
-# Salidas: 
 ############################################
 
 num1=$1

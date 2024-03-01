@@ -1,8 +1,6 @@
 ############################################
 # Autor: Aarón Álvarez Rodríguez
-# Nombre: ej09-info_ruta.sh
-# Entradas: 
-# Salidas: 
+# Nombre: ej09-info_ruta.sh 
 ############################################
 
 if [ "$#" -eq 0 ] 

@@ -1,8 +1,6 @@
 ###########################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: nombre ej08-imc.sh
-# Entradas:
-# Salidas:
 ############################################
 
 if [ "$#" -ne 2 ]; then
