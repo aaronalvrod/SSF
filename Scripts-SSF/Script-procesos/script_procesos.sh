@@ -61,7 +61,7 @@ do
 	if echo "$CPUprocess >= $CPU_max" | bc -l | grep -q 1 && echo "$MEMprocess >= $Mem_max" | bc -l | grep -q 1
 	echo "1: Proceso con mayor %CPU"
 	echo "2: Proceso con mayor %memoria"
-	case $REPLY in
+	case $option in
 	1) ps p $pidCPUprocess | menu $pidCPUprocess | break ;;
 	2) ps p $pidMEMprocess | menu $pidMEMprocess | break ;;
 	*) echo "Opción inválida" | break ;;
