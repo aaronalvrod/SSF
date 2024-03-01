@@ -12,7 +12,6 @@ Mem_max=$2
 
 menu() {
 	aux=0
-    menu_option="Selecciona una opcion del siguiente menu: "
 	echo "Menu de acciones d proceso"
 	echo ""
 	echo "Elija una de las siguientes opciones"
@@ -34,7 +33,6 @@ menu() {
     7) kill -STOP $1 ;;
     *) echo "Opcion fuera de los limites establecidos, seleccione una opcion valida" ;;
     esac 
-    done
 }
 
 if [ "$#" -ne 2 ]
