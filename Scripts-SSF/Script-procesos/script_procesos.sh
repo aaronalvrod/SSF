@@ -52,9 +52,7 @@ then
 fi
 
 while true
-do
-	echo "Procediendo a la comprobacion, espere por favor"
-	
+do	
 	CPUprocess=$(ps axo pcpu= --sort -pcpu | head -n 1)
 	pidCPUprocess=$(ps axo pid= --sort -pcpu | head -n 1)
 	MEMprocess=$(ps axo pmem= --sort -pmem | head -n 1)
