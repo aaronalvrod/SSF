@@ -3,20 +3,20 @@
 ####################################################################
 # Autor: Aarón Álvarez Rodríguez
 # Nombre: ej06-calcula_tiempos.sh
-# Entradas: Numero de segundos
-# Salidas: Dias, horas, minutos y segundos que correspondan a los segundos indicados
+# Entradas: Números de segundos
+# Salidas: Tiempo de días, horas, minutos y segundos
 # Historial: 2024-02-19
 ####################################################################
 
-segundos=$1
+if [ $# -eq 0 ]
+then
+	echo "ERROR: No has indicado un argumenyto"
+	echo "SINTAXIS: $0 <total_segundos>"
+	exit 
 
-dias=$(($segundos_totales/86400))
-seg_restantes=$(($segundos_totales % 86400))
-
-horas=$(($seg_restantes / 3600))
-seg_restantes=$(($seg_restantes % 3600))
-
-minutos=$(($seg_restantes / 60))
-segundos=$(($seg_restantes % 60))
-
-echo "$segundos equivalen a: $dias dias, $horas horas, $minutos minutos y $segundos segundos"
+elif [ $# -eq 1 ]
+then
+	echo "Correcto!"
+else
+	echo "Has indicado $# argumentos, se usará el primeros y se ignorará el resto"
+fi
